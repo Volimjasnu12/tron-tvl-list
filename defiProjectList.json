@@ -43,8 +43,18 @@
       "TEU2X7bomU5rhX9QJGL86pQ6h65GNkb5wr"
     ]
   }
-]
 {
+  "name": "BASO",
+  "logoURI": "https://i.ibb.co/your-logo.png",
+  "homepage": "https://basotoken.com",
+  "MarketCapLink": "",
+  "url": "https://apilist.tronscan.org/api/token/holder?contract=TEU2X7bomU5rhX9QJGL86pQ6h65GNkb5wr",
+  "category": "Staking",
+  "poolAddresses": [
+    "TEU2X7bomU5rhX9QJGL86pQ6h65GNkb5wr"
+  ]
+}
+]
   "name": "BASO",
   "logoURI": "https://i.ibb.co/your-logo.png",
   "homepage": "https://basotoken.com",
@@ -53,5 +63,4 @@
   "category": "Staking",
   "poolAddresses": [
     "TEU2X7bomU5rhX9QJGL86pQ6h65GNkb5wr"
-  ]
-}
+
