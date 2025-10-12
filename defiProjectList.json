@@ -33,25 +33,16 @@
     ]
   },
   {
-    "name": "BASO",
-    "logoURI": "https://i.ibb.co/your-logo.png",
-    "homepage": "https://basotoken.com",
-    "MarketCapLink": "https://www.coingecko.com/en/coins/baso",
-    "url": "https://apilist.tronscan.org/api/baso_tvl",
-    "category": "Staking",
-    "poolAddresses": [
-      "TEU2X7bomU5rhX9QJGL86pQ6h65GNkb5wr"
-    ]
-  }
-]
-{
   "name": "BASO",
   "logoURI": "https://i.ibb.co/your-logo.png",
   "homepage": "https://basotoken.com",
-  "MarketCapLink": "https://www.coingecko.com/en/coins/baso",
-  "url": "https://apilist.tronscan.org/api/baso-tvl-api/tvl.json",
+  "MarketCapLink": "",
+  "url": "https://apilist.tronscan.org/api/token/holder?contract=TEU2X7bomU5rhX9QJGL86pQ6h65GNkb5wr",
   "category": "Staking",
   "poolAddresses": [
     "TEU2X7bomU5rhX9QJGL86pQ6h65GNkb5wr"
   ]
 }
+]
+
+
